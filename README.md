@@ -5,8 +5,8 @@
 페이지의 주소를 통해서 홈페이지의 메인 페이지를 보면
 상단바에서 **HOME**, **ABOUT**, **CONTACT** 세 가지의 카테고리를 볼 수 있다.
 
-![대체 텍스트](/경로/example.jpg)
-![Github](./public/img/3/github.png)
+![Github](navy-01/images/img/1.png)
+
 
 ABOUT에는 프로젝트에 대한 자료, 사용한 오픈소스에 관한 라이센스들이 명시되어있다.
 
