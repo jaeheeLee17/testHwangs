@@ -10,7 +10,16 @@
 
 ABOUT에는 프로젝트에 대한 자료, 사용한 오픈소스에 관한 라이센스들이 명시되어있다.
 
+![Github](./images/img/9.png)
+
+
+![Github](./images/img/10.png)
+
+
 CONTACT에는 개발자들의 이메일 주소가 있어서, 언제든지 문의사항을 넣을 수 있다.
+
+![Github](./images/img/11.png)
+
 
 그리고 HOME버튼을 통해서 쉽게 메인 페이지로 돌아갈 수 있다.
 
